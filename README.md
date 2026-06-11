@@ -48,26 +48,26 @@ Analyse des données afin de répondre aux problématiques liées à la faim dan
 
 ### Fichier Aide Alimentaire
 
-**Description** : Ce dataset présente les quantités d’aide alimentaire reçues par 76 pays bénéficiaires entre 2013 et 2016. Les quantités sont exprimées en kg.
+Quantités d’aide alimentaire reçues par 76 pays bénéficiaires entre 2013 et 2016. Les quantités sont exprimées en kg.
 
 Après traitement, ce dataframe conserve 1475 enregistrements et 4 colonnes.
 
 ### Fichier Disponibilité Alimentaire
 
-**Description** : Ce dataset présente la disponibilité alimentaire en 2017 pour 174 pays et 98 produits d'origine végétale et animale. Les quantités sont exprimées en kg ou en kcal.
+Disponibilité alimentaire en 2017 pour 174 pays et 98 produits d'origine végétale et animale. Les quantités sont exprimées en kg ou en kcal.
 
 Initialement : 15605 enregistrements et 18 colonnes. 
 Après traitement: 15605 enregistrements et 19 colonnes.
 
 ### Fichier Population
 
-**Description** : Ce dataset présente la population totale de 174 pays pour une année donnée, entre 2013 et 2018. 
+Population totale de 174 pays pour une année donnée, entre 2013 et 2018. 
 
 Après traitement, ce dataframe conserve 1416 enregistrements et 3 colonnes.
 
 ### Fichier Sous-Nutrition
 
-Description : Ce dataset présente nombre moyen de personnes en sous-alimentation sur trois années, en millions d’habitants. 
+Nombre moyen de personnes en sous-alimentation sur trois années, en millions d’habitants. 
 
 Initialement : 1218 enregistrements et 3 colonnes. 
 Après traitement : 1218 enregistrements et 6 colonnes.
@@ -87,6 +87,7 @@ Les traitements appliqués incluent principalement :
 ### 1. Proportion de personnes en sous nutrition en 2017
 
 **Résultats** :
+
 * Période : année 2017
 * Population totale : 7,5 Milliards de personnes
 * Population sous-nutrition : 535,7 Millions de personnes
@@ -96,18 +97,20 @@ Les traitements appliqués incluent principalement :
 ### 2. Nombre de personnes qui en théorie pourraient être nourries
 
 **Résultat** :
+
 * Avec la disponibilité alimentaire mondiale en 2017, il serait théoriquement possible de nourrir environ **9,1 milliards de personnes**, soit, 121% de la population mondiale, sur la base de 2300 kcal par personne et par jour. 
 <hr/>
 
 ### 3. Nombre de personnes qui en théorie pourraient être nourries avec les produits végétaux
 
 **Résultat** :
+
 * La disponibilité alimentaire mondiale de produits végétaux en 2017 permettait théoriquement de nourrir environ **7,5 milliards de personnes**, sur la base d'un besoin de 2300 kcal par jour, soit 100% de la population mondiale de cette année.
 <hr/>
 
 ### 4. Utilisation de la disponibilité intérieure
 
-<img src='/charts/3.4_proportion_utilisation_dispo_interieure.png'></img>
+<img src='/charts/3.4_proportion_utilisation_dispo_interieure.png' width = 70%/>
 
 **Résultats** :
 * 50% de la disponibilité alimentaire intérieure totale est utilisée dans la nourriture ; 
@@ -118,7 +121,7 @@ Les traitements appliqués incluent principalement :
 
 ### 5. Utilisation des céréales
 
-<img src='/charts/3.5_utilisation_cereales.png'></img>
+<img src='/charts/3.5_utilisation_cereales.png' width = 70%/>
 
 **Résultat** :
 * Le riz est majoritairement consommé par les humains.
@@ -127,7 +130,7 @@ Les traitements appliqués incluent principalement :
 
 ### 6. Pays avec la proportion de personnes sous-alimentées la plus forte en 2017
 
-<img src='/charts/3.6_top_10_pays_pct_sous_nutrition_eleve_2017.png'></img>
+<img src='/charts/3.6_top_10_pays_pct_sous_nutrition_eleve_2017.png' width = 70%/>
 
 **Résultat** : 
 * Près de 48% de la population d'Haïti en état de sous-nutrition en 2017, l’un des taux les plus élevés au monde.
@@ -135,7 +138,7 @@ Les traitements appliqués incluent principalement :
 
 ### 7. Pays qui ont le plus bénéficié d'aide alimentaire depuis 2013
 
-<img src='/charts/3.7_top_10_pays_plus_aide_alimentaire_depuis_2013.png'></img>
+<img src='/charts/3.7_top_10_pays_plus_aide_alimentaire_depuis_2013.png' width = 70%/>
 
 **Résultat** :
 
@@ -145,10 +148,12 @@ Les traitements appliqués incluent principalement :
 
 ### 8. Evolution des 5 pays qui ont le plus bénéficié de l'aide alimentaire entre 2013 et 2016
 
-<img src='/charts/3.8_evolution_5_pays_aide_alimentaire.png'></img>
+<img src='/charts/3.8_evolution_5_pays_aide_alimentaire.png' width = 70%/>
 
 **Résultat** :
+
 Le graphique montre une forte variation de l’aide alimentaire entre 2013 et 2016 pour les cinq principaux bénéficiaires :
+
 * L'Ethiopie est le principal bénéficiaire en 2013, mais son aide diminue fortement dès 2014 jusqu'à disparaître en 2015.
 * À partir de 2014, la Syrie devient le premier bénéficiaire avant d'être dépassée par le Yémen en 2016, qui connaît la progression la plus marquée sur la période.
 * Le Soudan du Sud présente une hausse importante en 2014. 
@@ -157,25 +162,25 @@ Le graphique montre une forte variation de l’aide alimentaire entre 2013 et 20
 
 ### 9. Distribution des pays selon la disponibilité par habitant : top et bottom 10
 
-#### Visualisation de la disponibilité alimentaire des extrêmes dans le monde
+#### *Visualisation de la disponibilité alimentaire des extrêmes dans le monde*
 
-<img src='/charts/carte_disponibilite_alim_calories.png'></img>
+<img src='/charts/carte_disponibilite_alim_calories.png' width = 70%/>
 
-#### Pays avec le moins de disponibilité par habitant
+----
+#### *Pays avec le moins de disponibilité par habitant*
 
-<img src='/charts/3.9_10_pays_faible_disponibilite_alimentaire_2017.png'></img>
+<img src='/charts/3.9_10_pays_faible_disponibilite_alimentaire_2017.png' width = 70%/>
 
 **Résultat** :
-La République Centrafricaine et la Zambie disposent de moins de 2000 kcal par personne par jour.
+* La République Centrafricaine et la Zambie disposent de moins de 2000 kcal par personne par jour.
 <hr/>
 
-#### Pays avec le plus de disponibilité par habitant
+#### *Pays avec le plus de disponibilité par habitant*
 
-<img src='/charts/3.10_10_pays_forte_disponibilite_alimentaire_2017.png'></img>
+<img src='/charts/3.10_10_pays_forte_disponibilite_alimentaire_2017.png' width = 70%/>
 
 **Résultat** :
-* L’Autriche dispose du nombre de calories le
-plus élevé en 2017 (3700 kcal journalière par personne).
+* L’Autriche dispose du nombre de calories le plus élevé en 2017 (3700 kcal journalière par personne).
 <hr/>
 
 ### 10. Exemple de la Thaïlande pour le manioc
@@ -188,15 +193,13 @@ plus élevé en 2017 (3700 kcal journalière par personne).
 * Production manioc : 30,2 milliards de kg
 * Taux d'exportation : 83%					
 
-<img src='/charts/3.11_repartition_usages_interieur_manioc.png'></img>
+<img src='/charts/3.11_repartition_usages_interieur_manioc.png' width = 70%/>
 
 **Résultat** :
 
-En 2017, la Thaïlande présente un taux de sous-alimentation d'environ 9%, malgré une disponibilité alimentaire intérieure moyenne de 2785 kcal par personne et par jour.
-
-Bien que la production nationale du manioc soit importante, elle est majoritairement orientée vers l'exportation (83%) et d'autres usages (alimentation animale et transformation), tandis que l'alimentation humaine directe reste minoritaire (14%).
-
-La Thaïlande importe également une faible part de manioc (4 % de la production).
+* En 2017, la Thaïlande présente un taux de sous-alimentation d'environ 9%, malgré une disponibilité alimentaire intérieure moyenne de 2785 kcal par personne et par jour.
+* Bien que la production nationale du manioc soit importante, elle est majoritairement orientée vers l'exportation (83%) et d'autres usages (alimentation animale et transformation), tandis que l'alimentation humaine directe reste minoritaire (14%).
+* La Thaïlande importe également une faible part de manioc (4 % de la production).
 
 <hr/>
 
@@ -204,9 +207,9 @@ La Thaïlande importe également une faible part de manioc (4 % de la production
 
 ### Relation entre disponibilité calorique et taux de sous-nutrition
 
-Comparaison de la distribution des disponibilités alimentaires mondiale et des pays sans sous-nutrition
+#### *Comparaison de la distribution des disponibilités alimentaires mondiale et des pays sans sous-nutrition*
 
-<img src='/charts/4.1.2_Comparaison de la distribution des disponibilités alimentaires.png'></img>
+<img src='/charts/4.1.2_Comparaison de la distribution des disponibilités alimentaires.png' width = 70%/>
 
 **Résultat** :
 * Les pays sans sous-nutrition présentent une disponibilité alimentaire globalement plus élevée que la population mondiale.
