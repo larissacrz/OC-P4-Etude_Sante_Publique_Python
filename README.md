@@ -133,7 +133,7 @@ Les traitements appliqués incluent principalement :
 * Près de 48% de la population d'Haïti en état de sous-nutrition en 2017, l’un des taux les plus élevés au monde.
 <hr/>
 
-## 7. Pays qui ont le plus bénéficié d'aide alimentaire depuis 2013
+### 7. Pays qui ont le plus bénéficié d'aide alimentaire depuis 2013
 
 <img src='/charts/3.7_top_10_pays_plus_aide_alimentaire_depuis_2013.png'></img>
 
@@ -157,17 +157,20 @@ Le graphique montre une forte variation de l’aide alimentaire entre 2013 et 20
 
 ### 9. Distribution des pays selon la disponibilité par habitant : top et bottom 10
 
-Visualisation de la disponibilité des extrêmes dans le monde
+#### Visualisation de la disponibilité alimentaire des extrêmes dans le monde
+
 <img src='/charts/carte_disponibilite_alim_calories.png'></img>
 
-Pays avec le moins de disponibilité par habitant
+#### Pays avec le moins de disponibilité par habitant
+
 <img src='/charts/3.9_10_pays_faible_disponibilite_alimentaire_2017.png'></img>
 
 **Résultat** :
 La République Centrafricaine et la Zambie disposent de moins de 2000 kcal par personne par jour.
 <hr/>
 
-Pays avec le plus de disponibilité par habitant
+#### Pays avec le plus de disponibilité par habitant
+
 <img src='/charts/3.10_10_pays_forte_disponibilite_alimentaire_2017.png'></img>
 
 **Résultat** :
@@ -230,9 +233,10 @@ Comparaison de la distribution des disponibilités alimentaires mondiale et des 
 
 ## Stack technique
 
-Environnement : VS Code, Jupyter Notebook
-Langage : Python 3.11.9
-Bibliothèques : pandas, numpy, matplotlib, seaborn
+* Environnement : VS Code, Jupyter Notebook
+* Langage : Python 3.11.9
+* Bibliothèques : pandas, numpy, matplotlib, seaborn
 
-**Règlement général sur la protection des données** :
-Le RGPD n’est pas directement applicable dans ce projet, car les données de la FAO sont agrégées au niveau des pays et ne permettent pas d’identifier des individus. Le RGPD concerne principalement les données personnelles à caractère individuel.
+## Règlement général sur la protection des données
+
+* Le RGPD n’est pas directement applicable dans ce projet, car les données de la FAO sont agrégées au niveau des pays et ne permettent pas d’identifier des individus. Le RGPD concerne principalement les données personnelles à caractère individuel.
