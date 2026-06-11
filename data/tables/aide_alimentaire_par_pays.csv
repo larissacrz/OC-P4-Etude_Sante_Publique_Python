@@ -1,0 +1,229 @@
+Zone,Année,nb_produits,total_kg
+Afghanistan,2013,8,128238000
+Afghanistan,2014,8,57214000
+Algérie,2013,11,35234000
+Algérie,2014,10,18980000
+Algérie,2015,10,17424000
+Algérie,2016,8,9476000
+Angola,2013,2,5000000
+Angola,2014,2,14000
+Bangladesh,2013,10,131018000
+Bangladesh,2014,8,194628000
+Bangladesh,2015,7,22542000
+Bhoutan,2013,5,1724000
+Bhoutan,2014,2,146000
+Bhoutan,2015,3,578000
+Bhoutan,2016,2,218000
+Bolivie (État Plurinational De),2014,2,6000
+Burkina Faso,2013,9,18620000
+Burkina Faso,2014,9,22938000
+Burkina Faso,2015,9,23182000
+Burkina Faso,2016,2,72000
+Burundi,2013,9,53372000
+Burundi,2014,7,11010000
+Burundi,2015,8,12936000
+Bénin,2013,5,17622000
+Bénin,2014,3,672000
+Bénin,2015,6,3786000
+Bénin,2016,2,144000
+Cambodge,2013,8,10974000
+Cambodge,2014,8,12072000
+Cambodge,2015,7,2734000
+Cameroun,2013,8,4906000
+Cameroun,2014,9,13684000
+Cameroun,2015,9,32310000
+Cameroun,2016,2,578000
+"Chine, Continentale",2014,4,1298000
+Colombie,2013,6,11442000
+Colombie,2014,5,9196000
+Colombie,2015,5,6642000
+Colombie,2016,4,5466000
+Comores,2013,2,7806000
+Congo,2013,8,8034000
+Congo,2014,9,8916000
+Congo,2015,7,6000000
+Cuba,2013,5,1594000
+Cuba,2014,2,14000
+Cuba,2015,7,8266000
+Côte D'Ivoire,2013,7,22582000
+Côte D'Ivoire,2014,6,9922000
+Côte D'Ivoire,2015,7,12648000
+Côte D'Ivoire,2016,4,8786000
+Djibouti,2013,10,20368000
+Djibouti,2014,10,17088000
+Djibouti,2015,9,3840000
+El Salvador,2013,2,2010000
+El Salvador,2014,4,420000
+El Salvador,2015,4,1390000
+El Salvador,2016,2,1192000
+Gambie,2013,6,10108000
+Gambie,2014,6,1632000
+Gambie,2015,5,1050000
+Gambie,2016,2,336000
+Ghana,2013,6,4956000
+Ghana,2014,7,8166000
+Ghana,2015,5,2554000
+Guatemala,2013,6,52626000
+Guatemala,2014,8,23848000
+Guatemala,2015,8,21046000
+Guatemala,2016,4,1406000
+Guinée,2013,7,6728000
+Guinée,2014,8,17694000
+Guinée,2015,9,21330000
+Guinée-Bissau,2013,8,15492000
+Guinée-Bissau,2014,8,7418000
+Guinée-Bissau,2015,6,2764000
+Géorgie,2013,8,34000
+Géorgie,2014,7,36000
+Haïti,2013,10,61214000
+Haïti,2014,8,33108000
+Haïti,2015,7,9666000
+Haïti,2016,7,12462000
+Honduras,2013,5,27136000
+Honduras,2014,6,10598000
+Honduras,2015,6,12506000
+Honduras,2016,7,4492000
+Iran (République Islamique D'),2013,6,2138000
+Iran (République Islamique D'),2014,6,1474000
+Iran (République Islamique D'),2015,4,492000
+Iran (République Islamique D'),2016,3,582000
+Iraq,2013,7,666000
+Iraq,2014,2,930000
+Iraq,2015,2,2002000
+Jordanie,2013,12,9472000
+Jordanie,2014,6,8762000
+Jordanie,2015,5,6042000
+Kenya,2013,10,220966000
+Kenya,2014,9,217418000
+Kenya,2015,8,114452000
+Kirghizistan,2013,6,2038000
+Kirghizistan,2014,6,1400000
+Kirghizistan,2015,6,700000
+Lesotho,2013,6,2966000
+Lesotho,2014,7,4608000
+Lesotho,2015,5,3050000
+Liban,2013,7,4654000
+Liban,2014,4,2120000
+Liban,2016,2,1600000
+Libye,2014,2,596000
+Libye,2015,2,4278000
+Libye,2016,2,4414000
+Libéria,2013,7,17184000
+Libéria,2014,7,2662000
+Madagascar,2013,8,48382000
+Madagascar,2014,8,21934000
+Madagascar,2015,8,26362000
+Malawi,2013,7,53446000
+Malawi,2014,6,24450000
+Malawi,2015,6,11406000
+Malawi,2016,2,1720000
+Mali,2013,9,80486000
+Mali,2014,8,56244000
+Mali,2015,6,12856000
+Mauritanie,2013,8,25576000
+Mauritanie,2014,7,13776000
+Mauritanie,2015,9,14700000
+Mauritanie,2016,4,3130000
+Mozambique,2013,5,37956000
+Mozambique,2014,4,17418000
+Mozambique,2015,2,3238000
+Myanmar,2013,4,6248000
+Myanmar,2014,7,5148000
+Myanmar,2015,4,7154000
+Nicaragua,2013,9,31052000
+Nicaragua,2014,9,34104000
+Nicaragua,2015,10,48432000
+Nicaragua,2016,5,1744000
+Niger,2013,8,62720000
+Niger,2014,8,66226000
+Niger,2015,8,54656000
+Niger,2016,7,92742000
+Népal,2013,7,12396000
+Népal,2014,5,1290000
+Népal,2015,7,12986000
+Népal,2016,5,3484000
+Ouganda,2013,8,21766000
+Ouganda,2014,6,36542000
+Ouganda,2015,6,6314000
+Pakistan,2013,8,101364000
+Pakistan,2014,8,110268000
+Pakistan,2015,3,19440000
+Palestine,2013,7,53286000
+Palestine,2014,7,83134000
+Palestine,2015,5,33264000
+Philippines,2013,7,62164000
+Philippines,2014,6,105424000
+Philippines,2015,5,4134000
+Rwanda,2013,6,8932000
+Rwanda,2014,5,2476000
+République Arabe Syrienne,2013,12,563566000
+République Arabe Syrienne,2014,10,651870000
+République Arabe Syrienne,2015,9,524949000
+République Arabe Syrienne,2016,7,118558000
+République Centrafricaine,2013,9,17156000
+République Centrafricaine,2014,8,27418000
+République Centrafricaine,2015,8,22036000
+République Dominicaine,2013,3,49024000
+République Dominicaine,2014,3,35014000
+République Dominicaine,2015,4,236000
+République Dominicaine,2016,4,232000
+République Démocratique Du Congo,2013,9,150320000
+République Démocratique Du Congo,2014,7,70134000
+République Démocratique Du Congo,2015,9,68048000
+République Démocratique Populaire Lao,2013,7,9180000
+République Démocratique Populaire Lao,2014,7,11294000
+République Démocratique Populaire Lao,2015,9,7526000
+République Populaire Démocratique De Corée,2013,8,71324000
+République Populaire Démocratique De Corée,2014,9,43182000
+République Populaire Démocratique De Corée,2015,9,70506000
+République Populaire Démocratique De Corée,2016,3,2400000
+République-Unie De Tanzanie,2013,9,43116000
+République-Unie De Tanzanie,2014,8,76606000
+République-Unie De Tanzanie,2015,7,52300000
+Sao Tomé-Et-Principe,2013,5,890000
+Sao Tomé-Et-Principe,2014,4,936000
+Sierra Leone,2013,7,17882000
+Sierra Leone,2014,6,7156000
+Sierra Leone,2015,4,904000
+Somalie,2013,10,139800000
+Somalie,2014,8,81180000
+Somalie,2015,9,71698000
+Soudan,2013,8,330230000
+Soudan,2014,9,321904000
+Soudan,2015,7,17650000
+Soudan Du Sud,2013,7,196330000
+Soudan Du Sud,2014,7,450610000
+Soudan Du Sud,2015,8,48308000
+Sri Lanka,2013,9,7652000
+Sri Lanka,2014,8,7046000
+Sri Lanka,2015,8,3524000
+Sri Lanka,2016,2,328000
+Swaziland,2013,7,12818000
+Swaziland,2014,5,2710000
+Sénégal,2013,9,31862000
+Sénégal,2014,7,34000000
+Sénégal,2015,6,23900000
+Tadjikistan,2013,9,746000
+Tadjikistan,2014,10,1282000
+Tadjikistan,2015,2,0
+Tchad,2013,11,93930000
+Tchad,2014,8,97926000
+Tchad,2015,7,73678000
+Tchad,2016,2,2432000
+Timor-Leste,2013,4,116000
+Togo,2013,5,24804000
+Vanuatu,2015,5,802000
+Yémen,2013,9,264764000
+Yémen,2014,9,103840000
+Yémen,2015,10,372306000
+Yémen,2016,10,465574000
+Zambie,2013,2,328000
+Zambie,2014,2,2698000
+Zimbabwe,2013,8,21252000
+Zimbabwe,2014,6,26600000
+Zimbabwe,2015,5,14718000
+Égypte,2013,2,1122000
+Équateur,2013,5,1362000
+Éthiopie,2013,12,591404000
+Éthiopie,2014,11,586624000
+Éthiopie,2015,10,203266000
